@@ -1,1 +1,1 @@
-# Arquitectura_Gr1 - Linda Cordero
+# Procesador1 - Linda Cordero
